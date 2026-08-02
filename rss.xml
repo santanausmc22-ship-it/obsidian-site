@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Obsidian — The Blog</title>
+  <link>https://obsidianmusic.org/blog.html</link>
+  <atom:link href="https://obsidianmusic.org/rss.xml" rel="self" type="application/rss+xml" />
+  <description>Thoughts on craft, process, and more from Obsidian.</description>
+  <language>en-us</language>
+
+  <item>
+    <title>The Trail Always Teaches</title>
+    <link>https://obsidianmusic.org/blog.html#post-the-trail-always-teaches</link>
+    <guid isPermaLink="false">post-the-trail-always-teaches</guid>
+    <pubDate>Sat, 01 Aug 2026 12:00:00 -0500</pubDate>
+    <description><![CDATA[
+      <p><em>Some lessons can't be taught. They have to be lived.</em></p>
+      <p>Every summer, my daughters and I pack up the car and head somewhere new.</p>
+      <p>Some people think it's about the destination. The mountains. The lakes. The cabins.</p>
+      <p>Those things are great, but they're not the reason we go. The real reason is the trail.</p>
+      <p>Before we start, I tell my girls the same thing every time: "This is life."</p>
+      <p>Read the full post at obsidianmusic.org/blog.html</p>
+    ]]></description>
+  </item>
+
+  <item>
+    <title>Presence Over Perfection</title>
+    <link>https://obsidianmusic.org/blog.html#post-presence-over-perfection</link>
+    <guid isPermaLink="false">post-presence-over-perfection</guid>
+    <pubDate>Tue, 28 Jul 2026 12:00:00 -0500</pubDate>
+    <description><![CDATA[
+      <p><em>Fatherhood isn't about getting everything right. It's about refusing to stop showing up.</em></p>
+      <p>I still remember the moment my wife told me we were going to have a baby. For a second, everything stood still.</p>
+      <p>I wish I could tell you my first emotion was excitement—that I immediately pictured teaching my child to ride a bike or cheering from the stands at every game and recital.</p>
+      <p>It wasn't. It was fear.</p>
+      <p>Not because I didn't want to be a father, but because I had no idea what being a father actually looked like.</p>
+      <p>Read the full post at obsidianmusic.org/blog.html</p>
+    ]]></description>
+  </item>
+
+</channel>
+</rss>
